@@ -1,3 +1,5 @@
+
+
 # Gearbox Fault Detection Using Continuous Wavelet Transform and Vision Transformer (ViT)
 
 ## Abstract
